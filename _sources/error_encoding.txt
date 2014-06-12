@@ -1,0 +1,8 @@
+.. error_encoding:
+
+gedit
+------------
+
+
+rhythmbox
+---------------
